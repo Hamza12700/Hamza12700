@@ -6,4 +6,4 @@
 
 - 👀 I’m very much interested in **Cybersecurity** and **Web-Development**
 - 🌱 I’m currently learning **Web-Development**
-- 📫 Reach me at **Discord - Vector#1494** | **Twitter** [Hamza Rashid](https://twitter.com/Hamza_Rash1d)
+- 📫 Reach me at **Discord - Vector#1494** | **Twitter** [Hamza](https://twitter.com/Hamza_Rash1d)
