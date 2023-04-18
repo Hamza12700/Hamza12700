@@ -6,7 +6,7 @@
 
 - 👀 I’m very much interested in **Cybersecurity** and **Web-Development**
 - 🌱 I’m currently learning **Web-Development**
-- 📫 Reach me at **Discord - -Hamza-#2106** | **Twitter** [Hamza](https://twitter.com/Hamza_Rash1d)
+- 📫 Reach me at **Discord -Hamza-#2106** | **Twitter** [Hamza](https://twitter.com/Hamza_Rash1d)
 - 🛡️ TryHackMe Status [Hamza](https://tryhackme.com/p/Mr.Hamza)
 
 ---
