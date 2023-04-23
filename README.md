@@ -10,4 +10,4 @@
 - 🛡️ TryHackMe Status [Hamza](https://tryhackme.com/p/Mr.Hamza)
 
 ---
-<img scr="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=2&theme=catppuccin_frappe&line1=git,git,ec6f09;python,python,93bbeb;rust,rust,bf6d5d;Typescript,typescript,319fe3;&line2=neovim,neovim,218350;linux,linux,ffffff;react,react,2dbed7;javascript,javascript,daff1f;">
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=2&theme=catppuccin_frappe&line1=git,git,ec6f09;python,python,93bbeb;rust,rust,bf6d5d;Typescript,typescript,319fe3;&line2=neovim,neovim,218350;linux,linux,ffffff;react,react,2dbed7;javascript,javascript,daff1f;)
