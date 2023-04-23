@@ -11,15 +11,4 @@
 
 ---
 
-<h1 align="center">Languages and Tools</h1>
-
-<p align="center">
-<img src="https://cdn.iconscout.com/icon/free/png-512/react-3-1175109.png?f=avif&w=256" width="30" alt="React-JS">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="30">
-<img src="https://img.icons8.com/color/javascript" width="32">
-<img src="https://img.icons8.com/color/typescript" width="32">
-<img src="https://www.lunarvim.org/img/lunarvim_icon.png" width="30">
-<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="30">
-<img src="https://www.kali.org/images/kali-logo.svg" width="50" alt="I use kali linux">
-</p>
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=2&theme=catppuccin_frappe&line1=git,git,ec6f09;python,python,93bbeb;rust,rust,bf6d5d;Typescript,typescript,319fe3;&line2=neovim,neovim,218350;linux,linux,ffffff;react,react,2dbed7;javascript,javascript,daff1f;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=2&theme=catppuccin_frappe&line1=git,git,ec6f09;python,python,93bbeb;rust,rust,bf6d5d;Typescript,typescript,319fe3;&line2=neovim,neovim,218350;linux,linux,ffffff;react,react,2dbed7;javascript,javascript,daff1f;)
