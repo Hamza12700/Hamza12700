@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=2&theme=catppuccin_frappe&line1=javascript,javascript,f3ee53;react,react,1997cc;git,git,f78318;typescript,typescript,18a5ec;&line2=linux,linux,ffffff;python,python,7de8c4;neovim,neovim,56d728;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=2&theme=catppuccin_frappe&line1=javascript,javascript,f3ee53;react,react,1997cc;git,git,f78318;typescript,typescript,18a5ec;&line2=linux,linux,ffffff;python,python,7de8c4;neovim,neovim,56d728;)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=4&theme=catppuccin_frappe&line1=archlinux,archlinux,1679d0;gnubash,gnubash,ffffff;html5,html5,f06124;css3,css3,1f75b7;&line2=typescript,typescript,2776ec;go,go,2594e9;sass,sass,da2b4e;javascript,javascript,ead54d;&line3=docker,docker,72dafd;git,git,e16805;linux,linux,ffffff;neovim,neovim,04af18;&line4=react,react,176eb0;python,python,168abb;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=4&theme=catppuccin_frappe&line1=archlinux,archlinux,1679d0;gnubash,gnubash,ffffff;html5,html5,f06124;css3,css3,1f75b7;&line2=typescript,typescript,2776ec;go,go,2594e9;sass,sass,da2b4e;javascript,javascript,ead54d;&line3=docker,docker,72dafd;git,git,e16805;linux,linux,ffffff;neovim,neovim,04af18;&line4=react,react,176eb0;python,python,168abb;)
 
 </div>
 
