@@ -1,6 +1,4 @@
-## Hi I'm Hamza
-
----
+## Hi 👋, I'm Hamza
 
 <!--
 **Hamza12700/Hamza12700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
