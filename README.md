@@ -6,7 +6,7 @@
 
 - 👀 I’m very much interested in **Web-Development** and **Linux**
 - 🌱 I’m currently learning **[React.Js](https://react.dev/), [TailWind-CSS](https://tailwindcss.com/)**
-- 📫 Reach me at **Discord hamza2106** | **Twitter** [Hamza](https://twitter.com/Hamza_Rash1d)
+- 📫 Reach me at **Discord hamza12700** | **Twitter** [Hamza](https://twitter.com/Hamza_Rash1d)
 
 --- 
 
