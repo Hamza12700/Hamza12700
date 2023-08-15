@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **[React.Js](https://react.dev/), [TailWind-CSS](https://tailwindcss.com/)**
 - 📫 Reach me at **Discord hamza12700** | **Twitter** [Hamza](https://twitter.com/Hamza_Rash1d)
 
-<a href="https://www.github.com/hamza12700" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/hamza12700?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 --- 
 
 <span align="center">
