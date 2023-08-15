@@ -1,27 +1,44 @@
-## Hi 👋, I'm Hamza
+Hi 👋 My name is Hamza
+======================
 
-<!--
-**Hamza12700/Hamza12700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Web Developer Student | Linux Enthusiast
+----------------------------------------
 
-- 👀 I’m very much interested in **Web-Development** and **Linux**
-- 🌱 I’m currently learning **[React.Js](https://react.dev/), [TailWind-CSS](https://tailwindcss.com/)**
-- 📫 Reach me at **Discord hamza12700** | **Twitter** [Hamza](https://twitter.com/Hamza_Rash1d)
+I'm very much interested in Web Development and Linux
 
---- 
-
-<span align="center">
-
-<div align="center">
-
-![Hamza GitHub Stars](https://github-readme-stats.vercel.app/api?username=hamza12700&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
-
-</div>
-
-<div align="center">
-
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=4&theme=catppuccin_frappe&line1=archlinux,archlinux,1679d0;gnubash,gnubash,ffffff;html5,html5,f06124;css3,css3,1f75b7;&line2=typescript,typescript,2776ec;go,go,2594e9;sass,sass,da2b4e;javascript,javascript,ead54d;&line3=docker,docker,72dafd;git,git,e16805;linux,linux,ffffff;neovim,neovim,04af18;&line4=react,react,176eb0;python,python,168abb;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=4&theme=catppuccin_frappe&line1=archlinux,archlinux,1679d0;gnubash,gnubash,ffffff;html5,html5,f06124;css3,css3,1f75b7;&line2=typescript,typescript,2776ec;go,go,2594e9;sass,sass,da2b4e;javascript,javascript,ead54d;&line3=docker,docker,72dafd;git,git,e16805;linux,linux,ffffff;neovim,neovim,04af18;&line4=react,react,176eb0;python,python,168abb;)
-
-</div>
-
-</span>
+*   🖥️  See my portfolio at [Anonymous](http://hamza12700.github.io/Anonymous)
+*   🧠  I'm learning React, Tailwind
+*   🤝  I'm open to collaborating on Web Projects, Linux cli apps<a href="https://www.github.com/hamza12700" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/hamza12700?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Hamza_Rash1d" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/Hamza_Rash1d?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a>### Skills 
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://discord.com/users/hamza12700" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.github.com/hamza12700" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.x.com/Hamza_Rash1d" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/hamza12700"><img src="https://github-readme-stats.vercel.app/api?username=hamza12700&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hamza12700's GitHub stats" /></a>
