@@ -5,7 +5,7 @@
 I'm very interested in Web Development and GNU/Linux 
 * 🌍 I'm based in United Arab Emirates
 * 🖥️ See my portfolio at [Hamza.io](http://hamza12700.github.io/)
-* 🧠 I'm learning Svelte
+* 🧠 I'm learning [Svelte](https://svelte.dev/)
 * 🤝 I'm open to collaborating on Web Projects, Linux cli apps
 
 <a href="https://www.github.com/hamza12700" target="_blank" rel="noreferrer"><img
