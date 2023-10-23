@@ -7,7 +7,7 @@ I'm very interested in Web Development and GNU/Linux
 * 🖥️ See my portfolio at [Hamza.io](http://hamza12700.github.io/)
 * 🧠 I'm learning [Svelte](https://svelte.dev/) | [Svelte-Kit](https://kit.svelte.dev/) | [Astro](https://astro.build/)
 * 🤝 I'm open to collaborating on Web Projects, Linux cli apps
-* ⚡ Trying to learning [neovim](https://github.com/neovim/neovim)
+* ⚡ Trying to learn [neovim](https://github.com/neovim/neovim)
 
 <a href="https://www.github.com/hamza12700" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hamza12700?logo=github&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.x.com/Hamza_Rash1d" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Hamza_Rash1d" /></a>
