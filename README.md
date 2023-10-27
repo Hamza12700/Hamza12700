@@ -2,7 +2,7 @@
 # Hi 👋 My name is Hamza
 ## Web Developer | Linux Enthusiast
 
-I'm very interested in Web Development and GNU/Linux 
+I'm very interested in **Web Development** and **GNU/Linux** 
 * 🌍 I'm based in United Arab Emirates
 * 🖥️ See my portfolio at [Hamza.io](http://hamza12700.github.io/)
 * 🧠 I'm learning [Svelte](https://svelte.dev/) | [Svelte-Kit](https://kit.svelte.dev/) | [Astro](https://astro.build/)
