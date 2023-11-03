@@ -4,7 +4,7 @@
 
 I'm very interested in **Web Development** and **GNU/Linux** 
 * 🌍 I'm based in United Arab Emirates
-* 🖥️ See my portfolio at [Hamza.io](http://hamza12700.github.io/)
+* 🖥️ See my portfolio at [Hamza.io](https://hamza127.vercel.app/)
 * 🧠 I'm learning [Rust](https://www.rust-lang.org/)
 * 🤝 I'm open to collaborating on Web Projects, Linux cli apps
 * ⚡ Trying to learn [neovim](https://github.com/neovim/neovim)
