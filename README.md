@@ -1,8 +1,10 @@
 
 # Hi 👋 My name is Hamza
+
 ## Web Developer | Linux Enthusiast
 
-I'm very interested in **Web Development** and **GNU/Linux** 
+I'm very interested in **Web Development** and **GNU/Linux**
+
 * 🌍 I'm based in the United Arab Emirates
 * 🖥️ See my portfolio at [hamza127.vercel.app](https://hamza127.vercel.app/)
 * 🧠 I'm learning [Rust](https://www.rust-lang.org/)
@@ -10,9 +12,12 @@ I'm very interested in **Web Development** and **GNU/Linux**
 * ⚡ Trying to learn [neovim](https://github.com/neovim/neovim)
 
 <a href="https://www.github.com/hamza12700" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/hamza12700?logo=github&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.x.com/Hamza_Rash1d" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Hamza_Rash1d" /></a>
+src="https://img.shields.io/github/followers/hamza12700?logo=github&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.x.com/Hamza_Rash1d" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Hamza_Rash1d" /></a> <a href="https://discord.com/users/hamza12700"><img
+src="https://img.shields.io/badge/%40hamza12700-discord?logo=discord&labelColor=white&color=white
+" /></a>
 
 ### Skills
+
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -30,6 +35,7 @@ src="https://img.shields.io/github/followers/hamza12700?logo=github&color=0891b2
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
 
 ### Socials
+
 <p align="left">
 <a href="https://discord.com/users/hamza12700" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a>
 <a href="https://www.github.com/hamza12700" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /> </picture> </a>
