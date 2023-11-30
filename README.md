@@ -1,6 +1,6 @@
-# Hi 👋 My name is Hamza
+![intro pic](./intro.png)
 
-## Web Developer | Linux Enthusiast
+# Hi 👋 My name is Hamza
 
 I'm very interested in **Web Development** and **GNU/Linux**
 
