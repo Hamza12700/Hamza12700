@@ -2,7 +2,7 @@
 
 # Hi 👋 My name is Hamza
 
-As someone who is deeply passionate about Linux and the principles of open-source, I am driven to pursue web development not only through technical expertise but also through a strong commitment to contributing to the open-source community. I actively seek out opportunities to engage with impactful open-source projects, with the goal of not only mastering the intricacies of web development but also making meaningful contributions to the larger ecosystem and collective growth of the open-source community.
+A Linux enthusiast passionate about the world of web development
 
 - 🌍 I'm based in the United Arab Emirates
 - 🖥️ See my portfolio at [hamza127.vercel.app](https://hamza127.vercel.app/)
