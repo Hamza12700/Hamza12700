@@ -7,7 +7,7 @@ A Linux enthusiast passionate about the world of web development
 - 🌍 I'm based in the United Arab Emirates
 - 🖥️ See my portfolio at [hamza127.vercel.app](https://hamza127.vercel.app/)
 - 🧠 Trying to learn [Rust](https://www.rust-lang.org/)
-- 🤝 I'm open to collaborating on any Web Projects, Linux CLI apps
+- 🤝 I'm open to collaborating on any Linux CLI apps
 - ⚡ Fun Fact: I know [neovim](https://github.com/neovim/neovim)
 
 <a href="https://www.github.com/hamza12700" target="_blank" rel="noreferrer"><img
