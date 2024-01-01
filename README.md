@@ -1,5 +1,3 @@
-![intro pic](./intro.png)
-
 # Hi 👋 My name is Hamza
 
 A Linux enthusiast passionate about the world of web development
