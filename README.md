@@ -5,7 +5,7 @@ A Linux enthusiast passionate about the world of web development
 - 🌍 I'm based in the United Arab Emirates
 - 🧠 Trying to learn [Rust](https://www.rust-lang.org/)
 - 🤝 I'm open to collaborating on any Linux CLI apps
-- ⚡ Fun Fact: I know [neovim](https://github.com/neovim/neovim)
+- ⚡ Fun Fact: I know how to quit [neovim](https://github.com/neovim/neovim)
 
 <a href="https://www.github.com/hamza12700" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hamza12700?logo=github&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.x.com/Hamza_Rash1d" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Hamza_Rash1d" /></a> <a href="https://discord.com/users/hamza12700"><img
