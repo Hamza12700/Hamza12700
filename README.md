@@ -3,7 +3,6 @@
 A Linux enthusiast passionate about the world of web development
 
 - 🌍 I'm based in the United Arab Emirates
-- 🧠 Trying to learn [Rust](https://www.rust-lang.org/)
 - 🤝 I'm open to collaborating on any Linux CLI apps
 - ⚡ Fun Fact: I know how to quit [neovim](https://github.com/neovim/neovim)
 
