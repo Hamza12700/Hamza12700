@@ -6,8 +6,3 @@ A Linux fanatic, exploring the depths of technology with an insatiable curiosity
 
 <a href="https://www.github.com/hamza12700" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/hamza12700?logo=github&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.x.com/Hamza_Rash1d" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Hamza_Rash1d" /></a> <a href="https://discord.com/users/hamza12700"><img
     src="https://img.shields.io/badge/%40hamza12700-discord?logo=discord&labelColor=white&color=white" /></a>
-
-# My Work
-Here are some of my recent projects:
-- [cryptos](https://github.com/hamza12700/cryptos) - A Golang API that provides cryptographic hashing services 
-- [ToolPack](https://github.com/hamza12700/toolpack) - Tools for web developers
