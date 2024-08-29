@@ -1,5 +1,5 @@
 # Hi, I'm Hamza Rashid
-I'm a self-taugh developer. Learning backend development and low-level programming.
+**I'm a self-taugh developer. Learning backend development and low-level programming.**
 
 I’ve been enjoying web development for the first time ever since I built my
 first Go project, “cryptos”. The consolidate toolchain makes me want to leave
