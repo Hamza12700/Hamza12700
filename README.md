@@ -1,5 +1,12 @@
-# Hey, I'm Hamza
+# Hi, I'm Hamza Rashid
 I'm a self-taugh developer. Learning backend development and low-level programming.
+
+I’ve been enjoying web development for the first time ever since I built my
+first Go project, “cryptos”. The consolidate toolchain makes me want to leave
+the JS ecosystem behind for good. I’m currently looking for a role in backend
+web development, ideally written Go, Rust or Python. I’d especially love to
+work at a startup on a tight knit team where I can make an impact quickly. If
+you're hiring, let's chat!
 
 ### My GitHub Stats
 <a href="http://www.github.com/hamza12700"><img src="https://github-readme-stats.vercel.app/api?username=hamza12700&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="hamza12700's GitHub stats" /></a>
