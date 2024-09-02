@@ -7,12 +7,12 @@ I daily drive **Arch Linux** and **Hyprland** Window Manager, and I also use *ne
 I love building *backend services*, optimizing them, and creating command-line interface (CLI) applications to automate tedious tasks.
 Why spend 6 minutes doing it manually when you can just automate it in 5 hours.
 
-### My Work
+## My Work
 Projects that I'm working on:
 
 - [Drash](https://github.com/hamza12700/drash): A better alternative to Linux `rm`.
 
-### Get in Touch
+## Get in Touch
 I'm currently looking for a role in backend web development. I’d especially love to
 work at a startup on a tight knit team where I can make an impact quickly. If
 you're hiring, let's chat!
