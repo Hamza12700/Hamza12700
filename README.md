@@ -15,7 +15,7 @@ It records the original path of the file which was removed, and storing it
 user's local share directory making it easy to recovery them later if you
 accidentally deleted the wrong file. 
 
-- [xLink](https://github.com/hamza12700/xlink) (GO): URL Shortener
+- [xLink](https://github.com/hamza12700/xlink) (GO): URL Shortener<br/>
 Minimalistic web interface built using Go's standard `html/template` package and [Tailwind](https://tailwindcss.com).<br/>
 Keeping track of clicks on abbreviated URL and when it was last accessed.<br/>
 Input Validation: Checks if URL is a valid URL schema. Only allow `HTTP` and `HTTPS`, also checking if URL contains TLD (Top-Level Domain).<br/>
