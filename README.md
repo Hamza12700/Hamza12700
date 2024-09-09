@@ -16,11 +16,11 @@ user's local share directory making it easy to recovery them later if you
 accidentally deleted the wrong file. 
 
 - [xLink](https://github.com/hamza12700/xlink) (GO): URL Shortener
-Minimalistic web interface built using Go's standard `html/template` package and [Tailwind](https://tailwindcss.com).
-Keeping track of clicks on abbreviated URL and when it was last accessed.
-Input Validation: Checks if URL is a valid URL schema. Only allow `HTTP` and `HTTPS`, also checking if URL contains TLD (Top-Level Domain).
-Using Turso for storing user's and abbreviated links.
-HTMX for dynamic Web UI.
+Minimalistic web interface built using Go's standard `html/template` package and [Tailwind](https://tailwindcss.com).<br/>
+Keeping track of clicks on abbreviated URL and when it was last accessed.<br/>
+Input Validation: Checks if URL is a valid URL schema. Only allow `HTTP` and `HTTPS`, also checking if URL contains TLD (Top-Level Domain).<br/>
+Using Turso for storing user's and abbreviated links.<br/>
+HTMX for dynamic Web UI.<br/>
 
 ## Get in Touch
 I'm currently looking for a role in backend development. I’d especially love to
