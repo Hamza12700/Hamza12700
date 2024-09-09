@@ -16,7 +16,7 @@ Projects that I'm working on:
 > recovery them later if you accidentally deleted the wrong file. 
 
 ## Get in Touch
-I'm currently looking for a role in backend web development. I’d especially love to
+I'm currently looking for a role in backend development. I’d especially love to
 work at a startup on a tight knit team where I can make an impact quickly. If
 you're hiring, let's chat!
 
