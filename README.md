@@ -8,19 +8,25 @@ I love building *backend services*, optimizing them, and creating command-line i
 Why spend 6 minutes doing it manually when you can just automate it in 5 hours.
 
 ## My Work
-Projects that I'm working on:
+**Projects that I'm working on**:
 
-- [Drash](https://github.com/hamza12700/drash) (RUST, Linux): A better alternative to Linux `rm`
+- [Drash](https://github.com/hamza12700/drash) - (`RUST`, `Linux`): A better alternative to Linux `rm` command<br/>
 It records the original path of the file which was removed, and storing it
 user's local share directory making it easy to recovery them later if you
 accidentally deleted the wrong file. 
+- Search multiple files in the trash and restore them
+- Search multiple files in current working directory and put them into the trash
+- List files and directories in the trash-can, specifying each file-type (file or directory)
+- [Clap](https://github.com/clap-rs/clap) for command-line argument parsing
 
-- [xLink](https://github.com/hamza12700/xlink) (GO): URL Shortener<br/>
+- [Wavly/Shawty](https://github.com/wavly/shawty) - (`GO`): Tool for shortening long URL<br/>
 Minimalistic web interface built using Go's standard `html/template` package and [Tailwind](https://tailwindcss.com).<br/>
 Keeping track of clicks on abbreviated URL and when it was last accessed.<br/>
-Input Validation: Checks if URL is a valid URL schema. Only allow `HTTP` and `HTTPS`, also checking if URL contains TLD (Top-Level Domain).<br/>
-Using Turso for storing user's and abbreviated links.<br/>
-HTMX for dynamic Web UI.<br/>
+**Input Validation**:
+- Only allow `HTTPS` URL schema.
+- Checks if URL contains a valid TLD (Top-Level Domain).
+- [Turso](https://turso.tech) SQLITE for storage.
+- [HTMX](https://htmx.org) for dynamic Web UI.
 
 ## Get in Touch
 I'm currently looking for a role in backend development. I’d especially love to
