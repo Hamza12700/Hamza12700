@@ -19,7 +19,7 @@ accidentally deleted the wrong file:<br/>
 • List files and directories in the trash-can, specifying each file-type (file or directory)<br/>
 • [Clap](https://github.com/clap-rs/clap) for command-line argument parsing<br/>
 
-- [Wavly/Shawty](https://github.com/wavly/shawty) - (`GO`): Tool for shortening long URL<br/>
+- [shawty](https://github.com/wavly/shawty) - (`GO`): Tool for shortening long URL<br/>
 Minimalistic web interface built using Go's standard `html/template` package and [Tailwind](https://tailwindcss.com).<br/>
 Keeping track of clicks on abbreviated URL and when it was last accessed.<br/>
 **Input Validation**:<br/>
