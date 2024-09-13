@@ -13,7 +13,7 @@ Why spend 6 minutes doing it manually when you can just automate it in 5 hours.
 - [Drash](https://github.com/hamza12700/drash) - (`RUST`, `Linux`): A better alternative to Linux `rm` command<br/>
 It records the original path of the file which was removed, and storing it
 user's local share directory making it easy to recovery them later if you
-accidentally deleted the wrong file. 
+accidentally deleted the wrong file:<br/>
 • Search multiple files in the trash and restore them<br/>
 • Search multiple files in current working directory and put them into the trash<br/>
 • List files and directories in the trash-can, specifying each file-type (file or directory)<br/>
