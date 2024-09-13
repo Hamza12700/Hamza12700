@@ -22,7 +22,7 @@ accidentally deleted the wrong file.
 - [Wavly/Shawty](https://github.com/wavly/shawty) - (`GO`): Tool for shortening long URL<br/>
 Minimalistic web interface built using Go's standard `html/template` package and [Tailwind](https://tailwindcss.com).<br/>
 Keeping track of clicks on abbreviated URL and when it was last accessed.<br/>
-**Input Validation**:
+**Input Validation**:<br/>
   Only allow `HTTPS` URL schema.<br/>
   Checks if URL contains a valid TLD (Top-Level Domain).<br/>
   [Turso](https://turso.tech) SQLITE for storage.<br/>
