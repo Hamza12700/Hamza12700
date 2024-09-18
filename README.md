@@ -8,25 +8,12 @@ I love building *backend services*, optimizing them, and creating command-line i
 Why spend 6 minutes doing it manually when you can just automate it in 5 hours.
 
 ## My Work
+
 **Projects that I'm working on**:
 
-- [Drash](https://github.com/hamza12700/drash) - (`RUST`, `Linux`): A better alternative to Linux `rm` command<br/>
-It records the original path of the file which was removed, and storing it
-user's local share directory making it easy to recovery them later if you
-accidentally deleted the wrong file:<br/>
-• Search multiple files in the trash and restore them<br/>
-• Search multiple files in current working directory and put them into the trash<br/>
-• List files and directories in the trash-can, specifying each file-type (file or directory)<br/>
-• [Clap](https://github.com/clap-rs/clap) for command-line argument parsing<br/>
+- [drash](https://github.com/hamza12700/drash) - (`RUST`, `Linux`): A better alternative to Linux `rm` command.
 
-- [shawty](https://github.com/wavly/shawty) - (`GO`): Tool for shortening long URL<br/>
-Minimalistic web interface built using Go's standard `html/template` package and [Tailwind](https://tailwindcss.com).<br/>
-Keeping track of clicks on abbreviated URL and when it was last accessed.<br/>
-**Input Validation**:<br/>
-• Only allow `HTTPS` URL schema.<br/>
-• Checks if URL contains a valid TLD (Top-Level Domain).<br/>
-• [Turso](https://turso.tech) SQLITE for storage.<br/>
-• [HTMX](https://htmx.org) for dynamic Web UI.<br/>
+- [shawty](https://github.com/wavly/shawty) - (`GO`): Web tool for shortening long URLs.
 
 ## Get in Touch
 I'm currently looking for a role in backend development. I’d especially love to
