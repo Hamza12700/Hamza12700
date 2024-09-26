@@ -16,9 +16,6 @@ Why spend 6 minutes doing it manually when you can just automate it in 5 hours.
 - [shawty](https://github.com/wavly/shawty): Web tool for shortening long URLs.
 
 ## Get in Touch
-I'm currently looking for a role in backend development. I’d especially love to
-work at a startup on a tight knit team where I can make an impact quickly. If
-you're hiring, let's chat!
 
 - Email:   [c44help@gmail.com](mailto:c44help@gmail.com)
 - Discord: [Hamza12700](https://discord.com/users/813002019622879262)
