@@ -13,8 +13,6 @@ Why spend 6 minutes doing it manually when you can just automate it in 5 hours.
 
 - [drash](https://github.com/hamza12700/drash): A better alternative to Linux `rm` command.
 
-- [wcheck](https://github.com/hamza12700/wcheck): English word finder.
-
 - [shawty](https://github.com/wavly/shawty): Web tool for shortening long URLs.
 
 ## Get in Touch
