@@ -5,7 +5,7 @@ My favorite daily activities are learning about low-level concepts and performan
 I daily drive **Linux** and I also use ***neovim*** by the way.
 
 I love building *backend services*, optimizing them, and creating command-line interface (CLI) applications to automate tedious tasks.
-Why spend 6 minutes doing it manually when you can just automate it in 5 hours.
+Why spend 6 minutes doing it manually when you can just automate it in 6 hours.
 
 ## Things I've built:
 
