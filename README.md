@@ -1,4 +1,4 @@
-## Hamza Rashid - Self-Taugh Engineer
+## Hamza Rashid
 
 **Things I like**: Low-Level Programming | Parsing | Compilers
 
