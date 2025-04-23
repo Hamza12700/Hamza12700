@@ -1,6 +1,6 @@
 ## Hamza Rashid
 
-**Things I like**: Low-Level Programming | Parsing | Compilers
+**Things I like**: Low-Level Programming | Compilers/Parsing
 
 ## Contact Me
 
