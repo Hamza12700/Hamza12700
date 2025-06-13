@@ -1,6 +1,6 @@
 ## Hamza Rashid
 
-I'm a system's programmer, I like creating softwares/programs for Linux and Unix-like systems. I also love creating custom parsers or parsing logic for things like custom config-files or whatever it is.
+I'm a system's programmer, I like creating softwares/programs for Linux and Unix-like systems. 
 
 Things, I've built and still improving them:
 
