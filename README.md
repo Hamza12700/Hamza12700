@@ -1,7 +1,5 @@
 ## Hamza Rashid
 
-I'm a system's programmer.
-
 Things, I've built and still improving them:
 
 - [drash](https://github.com/hamza12700/drash) - A better and simple alternative to linux `rm` command.
