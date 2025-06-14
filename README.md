@@ -1,6 +1,6 @@
 ## Hamza Rashid
 
-I'm a system's programmer, I like creating softwares/programs for Linux and Unix-like systems. 
+I'm a system's programmer.
 
 Things, I've built and still improving them:
 
