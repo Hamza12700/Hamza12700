@@ -1,7 +1,10 @@
 ## Hamza Rashid
 
-Things, I've built and still improving them:
+Software Engineer and freelancer, experienced in C/C++ programming langauges and creating robust, fast and
+memory efficient software. I daily drive Linux (BTW).
+
+Things, I've built:
 
 - [drash](https://github.com/hamza12700/drash) - A better and simple alternative to linux `rm` command.
 
-If you wana have a chat about anything then hit me on Discord: 'hamza12700' or [email](mailto:c44help@gmail.com) me.
+Contact me on: [Email](mailto:c44help@gmail.com)
