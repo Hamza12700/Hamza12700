@@ -1,7 +1,6 @@
 ## Hamza Rashid
 
-Software Engineer and freelancer, experienced in C/C++ programming langauges and creating robust, fast and
-memory efficient software. I daily drive Linux (BTW).
+Software Engineer and freelancer, experienced in C/C++ programming langauges.
 
 Things, I've built:
 
