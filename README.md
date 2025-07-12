@@ -1,6 +1,6 @@
 ## Hamza Rashid
 
-Software Engineer and freelancer, experienced in C/C++ programming langauges.
+Software Engineer and freelancer. Experienced in C/C++ programming langauges.
 
 Things, I've built:
 
